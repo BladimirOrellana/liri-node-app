@@ -1,11 +1,11 @@
-# APP NAME ## liri
+# APP NAME
+## liri
 
+# CATEGORY
+## Utility
 
-# CATEGORY ## Utility
-
-
-# AUTHOR ### Bladimir Orellana
-
+# AUTHOR
+### Bladimir Orellana
 
 ## Short Descriction
 
