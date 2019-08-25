@@ -1,13 +1,13 @@
-#APP NAME ##liri
+# APP NAME
+## liri
 
+# CATEGORY
+## Utility
 
-#CATEGORY
-##Utility
+# AUTHOR
+### Bladimir Orellana
 
-#AUTHOR
-###Bladimir Orellana
-
-##Short Descriction
+## Short Descriction
 
 Liri is a search app for **Concerts**, **Movies**, and  **Songs** 
 
