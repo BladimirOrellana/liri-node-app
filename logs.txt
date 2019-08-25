@@ -1,4 +1,103 @@
 
+         Song Information
+----------------------------------------------
+Artist : Backstreet Boys
+Song : I Want It That Way
+Preview Link : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a69a56c673504a2ea5fc9958f1b81cd8
+Album : The Hits--Chapter One
+----------------------------------------------
+ 
+
+       Movie Information
+----------------------------------------------
+Name : Cars
+Released : 09 Jun 2006
+IMDB Rating : 7.1
+Ratings: Rotten Tomatoes 75%
+Country : USA
+Language : English, Italian, Japanese, Yiddish
+
+Plot : A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+
+Actors : Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Nacional
+Location : Ciudad De México, Mexico
+Date : December 13th 2019
+Visit site : https://www.bandsintown.com/e/1016770560?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+            Song Information
+----------------------------------------------
+Artist : Sheryl Crow
+Song : If It Makes You Happy
+Preview Link : null
+Album : Sheryl Crow
+----------------------------------------------
+    
+
+       Movie Information
+----------------------------------------------
+Name : Cars
+Released : 09 Jun 2006
+IMDB Rating : 7.1
+Ratings: Rotten Tomatoes 75%
+Country : USA
+Language : English, Italian, Japanese, Yiddish
+
+Plot : A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+
+Actors : Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+----------------------------------------------
+
+
+         Song Information
+----------------------------------------------
+Artist : Backstreet Boys
+Song : I Want It That Way
+Preview Link : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a69a56c673504a2ea5fc9958f1b81cd8
+Album : The Hits--Chapter One
+----------------------------------------------
+ 
+
+       Movie Information
+----------------------------------------------
+Name : Cars
+Released : 09 Jun 2006
+IMDB Rating : 7.1
+Ratings: Rotten Tomatoes 75%
+Country : USA
+Language : English, Italian, Japanese, Yiddish
+
+Plot : A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+
+Actors : Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Nacional
+Location : Ciudad De México, Mexico
+Date : December 13th 2019
+Visit site : https://www.bandsintown.com/e/1016770560?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+            Song Information
+----------------------------------------------
+Artist : Sheryl Crow
+Song : If It Makes You Happy
+Preview Link : null
+Album : Sheryl Crow
+----------------------------------------------
+    
+
        Movie Information
 ----------------------------------------------
 Name : Cars
@@ -124,7 +223,7 @@ Visit site : https://www.bandsintown.com/e/1014094827?app_id=codingbootcamp&came
                Venue Information
 ----------------------------------------------
 Place : Sames Auto Arena
-Location : Laredo, United States
+L: Laredo, United States
 Date : September 19th 2019
 Visit site : https://www.bandsintown.com/e/1014094110?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
 ----------------------------------------------
@@ -446,6 +545,7 @@ Visit site : https://www.bandsintown.com/e/1016771190?app_id=codingbootcamp&came
 
 
                Venue Information
+tion
 ----------------------------------------------
 Place : Auditorio Nacional
 Location : Ciudad De México, Mexico
@@ -1406,4 +1506,12 @@ Location : San Antonio, United States
 Date : September 28th 2019
 Visit site : https://www.bandsintown.com/e/1014097046?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
 ----------------------------------------------
+
+-
+
+--------
+
+-
+
+-
 
