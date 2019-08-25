@@ -1,5 +1,6 @@
 require("dotenv").config();
 const fs = require("fs")
+const prependFile = require('prepend-file');
 const axios = require("axios");
 const keys = require("./keys.js");
 const moment = require("moment")
@@ -13,12 +14,12 @@ var comand = process.argv[2];
 var search = process.argv[3];
 //SAVE HISTORY
 let history = (saveSearch) =>{
-    fs.appendFile('logs.txt', saveSearch+"\n", (err)=>{
+    //I used the prependFile package insted of the fs.append function
+    prependFile('logs.txt', saveSearch+"\n", (err)=>{
         if(err){
             console.log(err)
         }
     
-        console.log('The "data to append" was appended to file!');
     })
 }
 

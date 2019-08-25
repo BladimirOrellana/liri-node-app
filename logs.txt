@@ -1,3 +1,18 @@
+
+       Movie Information
+----------------------------------------------
+Name : Cars
+Released : 09 Jun 2006
+IMDB Rating : 7.1
+Ratings: Rotten Tomatoes 75%
+Country : USA
+Language : English, Italian, Japanese, Yiddish
+
+Plot : A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+
+Actors : Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+----------------------------------------------
+
         Song Information
 ----------------------------------------------
 Artist : Backstreet Boys
@@ -483,3 +498,912 @@ Preview Link : null
 Album : Sheryl Crow
 ----------------------------------------------
     
+
+            Song Information
+----------------------------------------------
+Artist : Sheryl Crow
+Song : If It Makes You Happy
+Preview Link : null
+Album : Sheryl Crow
+----------------------------------------------
+    
+
+               Venue Information
+----------------------------------------------
+Place : Pechanga Arena San Diego
+Location : San Diego, United States
+Date : September 6th 2019
+Visit site : https://www.bandsintown.com/e/1014090907?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : The Forum
+Location : Los Angeles, United States
+Date : September 8th 2019
+Visit site : https://www.bandsintown.com/e/1014094384?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : The Forum
+Location : Los Angeles, United States
+Date : September 8th 2019
+Visit site : https://www.bandsintown.com/e/1014094384?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : WaMu Theater
+Location : Seattle, United States
+Date : September 12th 2019
+Visit site : https://www.bandsintown.com/e/1014096920?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : WaMu Theater
+Location : Seattle, United States
+Date : September 12th 2019
+Visit site : https://www.bandsintown.com/e/1014096920?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Mandalay Bay Events Center
+Location : Las Vegas, United States
+Date : September 14th 2019
+Visit site : https://www.bandsintown.com/e/1014091164?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Mandalay Bay Events Center
+Location : Las Vegas, United States
+Date : September 14th 2019
+Visit site : https://www.bandsintown.com/e/1014091164?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : SAP Center at San Jose
+Location : San Jose, United States
+Date : September 15th 2019
+Visit site : https://www.bandsintown.com/e/1014094827?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : SAP Center at San Jose
+Location : San Jose, United States
+Date : September 15th 2019
+Visit site : https://www.bandsintown.com/e/1014094827?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : The Forum
+Location : Los Angeles, United States
+Date : September 7th 2019
+Visit site : https://www.bandsintown.com/e/1014743176?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Sames Auto Arena
+Location : Laredo, United States
+Date : September 19th 2019
+Visit site : https://www.bandsintown.com/e/1014094110?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Pechanga Arena San Diego
+Location : San Diego, United States
+Date : September 6th 2019
+Visit site : https://www.bandsintown.com/e/1014090907?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : The Forum
+Location : Los Angeles, United States
+Date : September 7th 2019
+Visit site : https://www.bandsintown.com/e/1014743176?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Talking Stick Resort Arena
+Location : Phoenix, United States
+Date : September 21st 2019
+Visit site : https://www.bandsintown.com/e/1014094454?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Sames Auto Arena
+Location : Laredo, United States
+Date : September 19th 2019
+Visit site : https://www.bandsintown.com/e/1014094110?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Don Haskins Center
+Location : El Paso, United States
+Date : September 22nd 2019
+Visit site : https://www.bandsintown.com/e/1014097140?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Bert Ogden Arena
+Location : Edinburg, United States
+Date : September 26th 2019
+Visit site : https://www.bandsintown.com/e/1014117070?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Talking Stick Resort Arena
+Location : Phoenix, United States
+Date : September 21st 2019
+Visit site : https://www.bandsintown.com/e/1014094454?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Toyota Center
+Location : Houston, United States
+Date : September 27th 2019
+Visit site : https://www.bandsintown.com/e/1014097303?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : AT&T Center
+Location : San Antonio, United States
+Date : September 28th 2019
+Visit site : https://www.bandsintown.com/e/1014097046?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : AT&T Center
+Location : San Antonio, United States
+Date : September 28th 2019
+Visit site : https://www.bandsintown.com/e/1014097046?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : American Airlines Center
+Location : Dallas, United States
+Date : September 29th 2019
+Visit site : https://www.bandsintown.com/e/1014109930?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : American Airlines Center
+Location : Dallas, United States
+Date : September 29th 2019
+Visit site : https://www.bandsintown.com/e/1014109930?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Agganis Arena
+Location : Boston, United States
+Date : October 3rd 2019
+Visit site : https://www.bandsintown.com/e/1014094554?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Agganis Arena
+Location : Boston, United States
+Date : October 3rd 2019
+Visit site : https://www.bandsintown.com/e/1014094554?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Madison Square Garden
+Location : New York, United States
+Date : October 4th 2019
+Visit site : https://www.bandsintown.com/e/1014108535?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Madison Square Garden
+Location : New York, United States
+Date : October 4th 2019
+Visit site : https://www.bandsintown.com/e/1014108535?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : CAA Centre (Formerly Powerade Centre)
+Location : Brampton, Canada
+Date : October 6th 2019
+Visit site : https://www.bandsintown.com/e/1014151250?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : CAA Centre (Formerly Powerade Centre)
+Location : Brampton, Canada
+Date : October 6th 2019
+Visit site : https://www.bandsintown.com/e/1014151250?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Amway Center
+Location : Orlando, United States
+Date : October 10th 2019
+Visit site : https://www.bandsintown.com/e/1014096986?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Amway Center
+Location : Orlando, United States
+Date : October 10th 2019
+Visit site : https://www.bandsintown.com/e/1014096986?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : AmericanAirlines Arena
+Location : Miami, United States
+Date : October 11th 2019
+Visit site : https://www.bandsintown.com/e/1014096828?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Bert Ogden Arena
+Location : Edinburg, United States
+Date : September 26th 2019
+Visit site : https://www.bandsintown.com/e/1014117070?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : EagleBank Arena
+Location : Fairfax, United States
+Date : October 13th 2019
+Visit site : https://www.bandsintown.com/e/1014097349?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : EagleBank Arena
+Location : Fairfax, United States
+Date : October 13th 2019
+Visit site : https://www.bandsintown.com/e/1014097349?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Allstate Arena
+Location : Rosemont, United States
+Date : October 18th 2019
+Visit site : https://www.bandsintown.com/e/1014095158?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : AmericanAirlines Arena
+Location : Miami, United States
+Date : October 11th 2019
+Visit site : https://www.bandsintown.com/e/1014096828?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Pepsi Center
+Location : Denver, United States
+Date : October 20th 2019
+Visit site : https://www.bandsintown.com/e/1014099092?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Pepsi Center
+Location : Denver, United States
+Date : October 20th 2019
+Visit site : https://www.bandsintown.com/e/1014099092?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Coliseo de Puerto Rico
+Location : San Juan, Puerto Rico
+Date : November 9th 2019
+Visit site : https://www.bandsintown.com/e/1014227579?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Coliseo de Puerto Rico
+Location : San Juan, Puerto Rico
+Date : November 9th 2019
+Visit site : https://www.bandsintown.com/e/1014227579?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Citibanamex
+Location : Monterrey, Mexico
+Date : December 5th 2019
+Visit site : https://www.bandsintown.com/e/1016770876?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Citibanamex
+Location : Monterrey, Mexico
+Date : December 5th 2019
+Visit site : https://www.bandsintown.com/e/1016770876?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Telmex
+Location : Zapopan, Mexico
+Date : December 7th 2019
+Visit site : https://www.bandsintown.com/e/1016771190?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Telmex
+Location : Zapopan, Mexico
+Date : December 7th 2019
+Visit site : https://www.bandsintown.com/e/1016771190?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Nacional
+Location : Ciudad De México, Mexico
+Date : December 13th 2019
+Visit site : https://www.bandsintown.com/e/1016770560?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Nacional
+Location : Ciudad De México, Mexico
+Date : December 13th 2019
+Visit site : https://www.bandsintown.com/e/1016770560?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Allstate Arena
+Location : Rosemont, United States
+Date : October 18th 2019
+Visit site : https://www.bandsintown.com/e/1014095158?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Don Haskins Center
+Location : El Paso, United States
+Date : September 22nd 2019
+Visit site : https://www.bandsintown.com/e/1014097140?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Toyota Center
+Location : Houston, United States
+Date : September 27th 2019
+Visit site : https://www.bandsintown.com/e/1014097303?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Pechanga Arena San Diego
+Location : San Diego, United States
+Date : September 6th 2019
+Visit site : https://www.bandsintown.com/e/1014090907?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Pechanga Arena San Diego
+Location : San Diego, United States
+Date : September 6th 2019
+Visit site : https://www.bandsintown.com/e/1014090907?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : The Forum
+Location : Los Angeles, United States
+Date : September 7th 2019
+Visit site : https://www.bandsintown.com/e/1014743176?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : The Forum
+Location : Los Angeles, United States
+Date : September 8th 2019
+Visit site : https://www.bandsintown.com/e/1014094384?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : WaMu Theater
+Location : Seattle, United States
+Date : September 12th 2019
+Visit site : https://www.bandsintown.com/e/1014096920?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Mandalay Bay Events Center
+Location : Las Vegas, United States
+Date : September 14th 2019
+Visit site : https://www.bandsintown.com/e/1014091164?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Mandalay Bay Events Center
+Location : Las Vegas, United States
+Date : September 14th 2019
+Visit site : https://www.bandsintown.com/e/1014091164?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : SAP Center at San Jose
+Location : San Jose, United States
+Date : September 15th 2019
+Visit site : https://www.bandsintown.com/e/1014094827?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : SAP Center at San Jose
+Location : San Jose, United States
+Date : September 15th 2019
+Visit site : https://www.bandsintown.com/e/1014094827?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Sames Auto Arena
+Location : Laredo, United States
+Date : September 19th 2019
+Visit site : https://www.bandsintown.com/e/1014094110?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Sames Auto Arena
+Location : Laredo, United States
+Date : September 19th 2019
+Visit site : https://www.bandsintown.com/e/1014094110?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Talking Stick Resort Arena
+Location : Phoenix, United States
+Date : September 21st 2019
+Visit site : https://www.bandsintown.com/e/1014094454?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Talking Stick Resort Arena
+Location : Phoenix, United States
+Date : September 21st 2019
+Visit site : https://www.bandsintown.com/e/1014094454?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Don Haskins Center
+Location : El Paso, United States
+Date : September 22nd 2019
+Visit site : https://www.bandsintown.com/e/1014097140?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Don Haskins Center
+Location : El Paso, United States
+Date : September 22nd 2019
+Visit site : https://www.bandsintown.com/e/1014097140?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : WaMu Theater
+Location : Seattle, United States
+Date : September 12th 2019
+Visit site : https://www.bandsintown.com/e/1014096920?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Bert Ogden Arena
+Location : Edinburg, United States
+Date : September 26th 2019
+Visit site : https://www.bandsintown.com/e/1014117070?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Toyota Center
+Location : Houston, United States
+Date : September 27th 2019
+Visit site : https://www.bandsintown.com/e/1014097303?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Bert Ogden Arena
+Location : Edinburg, United States
+Date : September 26th 2019
+Visit site : https://www.bandsintown.com/e/1014117070?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Toyota Center
+Location : Houston, United States
+Date : September 27th 2019
+Visit site : https://www.bandsintown.com/e/1014097303?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : AT&T Center
+Location : San Antonio, United States
+Date : September 28th 2019
+Visit site : https://www.bandsintown.com/e/1014097046?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : American Airlines Center
+Location : Dallas, United States
+Date : September 29th 2019
+Visit site : https://www.bandsintown.com/e/1014109930?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : American Airlines Center
+Location : Dallas, United States
+Date : September 29th 2019
+Visit site : https://www.bandsintown.com/e/1014109930?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Agganis Arena
+Location : Boston, United States
+Date : October 3rd 2019
+Visit site : https://www.bandsintown.com/e/1014094554?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Agganis Arena
+Location : Boston, United States
+Date : October 3rd 2019
+Visit site : https://www.bandsintown.com/e/1014094554?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Madison Square Garden
+Location : New York, United States
+Date : October 4th 2019
+Visit site : https://www.bandsintown.com/e/1014108535?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Madison Square Garden
+Location : New York, United States
+Date : October 4th 2019
+Visit site : https://www.bandsintown.com/e/1014108535?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : CAA Centre (Formerly Powerade Centre)
+Location : Brampton, Canada
+Date : October 6th 2019
+Visit site : https://www.bandsintown.com/e/1014151250?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : CAA Centre (Formerly Powerade Centre)
+Location : Brampton, Canada
+Date : October 6th 2019
+Visit site : https://www.bandsintown.com/e/1014151250?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Amway Center
+Location : Orlando, United States
+Date : October 10th 2019
+Visit site : https://www.bandsintown.com/e/1014096986?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Amway Center
+Location : Orlando, United States
+Date : October 10th 2019
+Visit site : https://www.bandsintown.com/e/1014096986?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : AmericanAirlines Arena
+Location : Miami, United States
+Date : October 11th 2019
+Visit site : https://www.bandsintown.com/e/1014096828?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : AmericanAirlines Arena
+Location : Miami, United States
+Date : October 11th 2019
+Visit site : https://www.bandsintown.com/e/1014096828?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : EagleBank Arena
+Location : Fairfax, United States
+Date : October 13th 2019
+Visit site : https://www.bandsintown.com/e/1014097349?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : EagleBank Arena
+Location : Fairfax, United States
+Date : October 13th 2019
+Visit site : https://www.bandsintown.com/e/1014097349?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Allstate Arena
+Location : Rosemont, United States
+Date : October 18th 2019
+Visit site : https://www.bandsintown.com/e/1014095158?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Allstate Arena
+Location : Rosemont, United States
+Date : October 18th 2019
+Visit site : https://www.bandsintown.com/e/1014095158?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Pepsi Center
+Location : Denver, United States
+Date : October 20th 2019
+Visit site : https://www.bandsintown.com/e/1014099092?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Pepsi Center
+Location : Denver, United States
+Date : October 20th 2019
+Visit site : https://www.bandsintown.com/e/1014099092?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Coliseo de Puerto Rico
+Location : San Juan, Puerto Rico
+Date : November 9th 2019
+Visit site : https://www.bandsintown.com/e/1014227579?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Coliseo de Puerto Rico
+Location : San Juan, Puerto Rico
+Date : November 9th 2019
+Visit site : https://www.bandsintown.com/e/1014227579?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Citibanamex
+Location : Monterrey, Mexico
+Date : December 5th 2019
+Visit site : https://www.bandsintown.com/e/1016770876?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Citibanamex
+Location : Monterrey, Mexico
+Date : December 5th 2019
+Visit site : https://www.bandsintown.com/e/1016770876?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Telmex
+Location : Zapopan, Mexico
+Date : December 7th 2019
+Visit site : https://www.bandsintown.com/e/1016771190?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Telmex
+Location : Zapopan, Mexico
+Date : December 7th 2019
+Visit site : https://www.bandsintown.com/e/1016771190?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Nacional
+Location : Ciudad De México, Mexico
+Date : December 13th 2019
+Visit site : https://www.bandsintown.com/e/1016770560?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : Auditorio Nacional
+Location : Ciudad De México, Mexico
+Date : December 13th 2019
+Visit site : https://www.bandsintown.com/e/1016770560?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : The Forum
+Location : Los Angeles, United States
+Date : September 7th 2019
+Visit site : https://www.bandsintown.com/e/1014743176?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : The Forum
+Location : Los Angeles, United States
+Date : September 8th 2019
+Visit site : https://www.bandsintown.com/e/1014094384?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+               Venue Information
+----------------------------------------------
+Place : AT&T Center
+Location : San Antonio, United States
+Date : September 28th 2019
+Visit site : https://www.bandsintown.com/e/1014097046?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
