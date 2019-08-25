@@ -6,10 +6,21 @@ const moment = require("moment")
 const Spotify = require("node-spotify-api")
 const spotify = new Spotify(keys.spotify);
 var artist;
+let save;
 
 
 var comand = process.argv[2];
 var search = process.argv[3];
+//SAVE HISTORY
+let history = (saveSearch) =>{
+    fs.appendFile('logs.txt', saveSearch+"\n", (err)=>{
+        if(err){
+            console.log(err)
+        }
+    
+        console.log('The "data to append" was appended to file!');
+    })
+}
 
 //GET SPOTIFY FUNCTION
 let getSpotify = (artist) => {
@@ -21,11 +32,12 @@ let getSpotify = (artist) => {
   ).then((result)=>{
       
       
-      for(var i in result.tracks.items){
+    
+        for(var i in result.tracks.items){
         
         
-        console.log(
-             `
+
+save = `
             Song Information
 ----------------------------------------------
 Artist : ${result.tracks.items[i].artists[0].name}
@@ -33,10 +45,13 @@ Song : ${result.tracks.items[i].name}
 Preview Link : ${result.tracks.items[i].preview_url}
 Album : ${result.tracks.items[i].album.name}
 ----------------------------------------------
-`
- )
-      }
-      console.log(result.tracks.items[0])
+    `
+     
+          }
+
+          history(save)
+          console.log(save)
+     
   }).catch((err)=>{
       console.log(err)
   })
@@ -49,8 +64,8 @@ axios.get("http://www.omdbapi.com/?apikey=trilogy&t="+movie).then((result)=>{
     var getData = result.data;
   
 
-    console.log(
-        `
+    
+ save =  `
        Movie Information
 ----------------------------------------------
 Name : ${getData.Title}
@@ -65,8 +80,9 @@ Plot : ${getData.Plot}
 Actors : ${getData.Actors}
 ----------------------------------------------
 `
-)
 
+history(save)
+console.log(save)
 }).catch((err)=>{
     console.log(err)
 })
@@ -80,9 +96,9 @@ for(var i in result.data){
     let getData = result.data[i]
     var date = moment(getData.datetime)
   
-console.log(
 
-`
+
+save = `
                Venue Information
 ----------------------------------------------
 Place : ${getData.venue.name}
@@ -91,7 +107,9 @@ Date : ${date.format("MMMM Do YYYY")}
 Visit site : ${getData.url}
 ----------------------------------------------
 `
-)
+history(save)
+console.log(save)
+history(save)
 }
 
 
@@ -102,7 +120,64 @@ Visit site : ${getData.url}
 
 })
 }
+//DO WHAT IT SAY FUNCTION
+let doWhatItSays = () =>{
 
+
+fs.readFile('random.txt','utf8', (err,data)=>{
+
+    if(err){
+        console.log(err);
+    }
+var splitText = data.split(',')
+
+    spotify.search(
+        {
+            type: 'track', query: splitText[1], limit: 1
+        }
+        
+        
+        ).then((result) => {
+            for(var i in result.tracks.items){
+        
+        
+                
+                 save =       `
+         Song Information
+----------------------------------------------
+Artist : ${result.tracks.items[i].artists[0].name}
+Song : ${result.tracks.items[i].name}
+Preview Link : ${result.tracks.items[i].preview_url}
+Album : ${result.tracks.items[i].album.name}
+----------------------------------------------
+ `
+         
+console.log(save)
+         history(save)
+              }
+            
+          
+        }).catch((err)=>{
+            console.log(err)
+        })
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
 let defaultResult = () =>{
     console.log(
 `
@@ -121,23 +196,30 @@ node liri.js concert-this maluma
 );
 }
 
-// fs.appendFile('logs.txt', "Hello\n", (err)=>{
-//     if(err){
-//         console.log(err)
-//     }
 
-//     console.log('The "data to append" was appended to file!');
-// })
 
 switch(comand){
     case 'spotify-this-song':
-        getSpotify(search);
+            if(search === undefined){
+                search = "The Sign";
+                getSpotify(search);
+            }else{
+                getSpotify(search);
+            }
         break;
     case 'concert-this':
         getBand(search);
         break;
     case 'movie-this':
-        getMovie(search);
+            if(search === undefined){
+                search = "Mr. Nobody";
+                getMovie(search);
+            }else{
+                getMovie(search);
+            }
+        break;
+    case 'do-what-it-says':
+        doWhatItSays();
         break;
         default:
             defaultResult()
@@ -145,3 +227,5 @@ switch(comand){
 
 
 }
+
+
