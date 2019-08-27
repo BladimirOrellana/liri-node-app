@@ -24,7 +24,7 @@ Liri is a comand line  search app for **Concerts** :microphone:, **Movies** :mov
 `Liri` needs to arguments so it can work
 The first argument is the `Search type` and the second one is the `Query`
 
-####Search Type
+#### Search Type
 
 - `$ node liri.js spotify-this-sogn`
 - `$ node liri.js movie-this`
