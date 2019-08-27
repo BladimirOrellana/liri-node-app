@@ -1,13 +1,12 @@
-# APP NAME
-## liri
+# App Information
+###App Name
+- liri
+### CATEGORY
+- Utility
 
-# CATEGORY
-## Utility
-
-# AUTHOR
+### AUTHOR
 ### Bladimir Orellana
 [Website](https://bladimirorellana.com)
-
 
 ## Short Descriction
 
@@ -21,7 +20,7 @@ Liri is a comand line  search app for **Concerts** :microphone:, **Movies** :mov
 
 ## How to use it!
 
-`Liri` needs to arguments so it can work
+`Liri` needs two arguments so it can work
 The first argument is the `Search type` and the second one is the `Query`
 
 #### Example Search Type
