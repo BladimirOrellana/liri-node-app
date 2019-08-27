@@ -9,6 +9,7 @@
 
 ## Short Descriction
 
-Liri is a search app for **Concerts**, **Movies**, and  **Songs** 
-:+1:
+Liri is a comand line  search app for **Concerts** :microphone:, **Movies** :movie_camera:, and  **Songs** /play sexyback :musical_note: 
+
+
 
