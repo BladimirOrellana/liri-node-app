@@ -1,12 +1,12 @@
 # App Information
-###App Name
+### App Name
 - liri
 ### CATEGORY
 - Utility
 
 ### AUTHOR
-### Bladimir Orellana
-[Website](https://bladimirorellana.com)
+#### [Website](https://bladimirorellana.com)
+
 
 ## Short Descriction
 
