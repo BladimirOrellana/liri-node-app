@@ -37,7 +37,7 @@ The first argument is the `Search type` and the second one is the `Query`
 
 ### We get the search result
 
-[alt text](images/spotify.png)
+![alt text](images/spotify.png)
 
 
 
