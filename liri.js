@@ -6,12 +6,11 @@ const keys = require("./keys.js");
 const moment = require("moment")
 const Spotify = require("node-spotify-api")
 const spotify = new Spotify(keys.spotify);
-var artist;
 let save;
 
 
 var comand = process.argv[2];
-var search = process.argv[3];
+var search = process.argv.slice(3).join(" ");
 //SAVE HISTORY
 let history = (saveSearch) =>{
     //I used the prependFile package insted of the fs.append function
@@ -179,7 +178,7 @@ console.log(save)
 
 
 }
-let defaultResult = () =>{
+let defaultMessage = () =>{
     console.log(
 `
 Please Enter one of this comands
@@ -223,7 +222,7 @@ switch(comand){
         doWhatItSays();
         break;
         default:
-            defaultResult()
+            defaultMessage()
             
 
 

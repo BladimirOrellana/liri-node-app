@@ -23,12 +23,22 @@ Liri is a comand line  search app for **Concerts** :microphone:, **Movies** :mov
 `Liri` needs two arguments so it can work
 The first argument is the `Search type` and the second one is the `Query`
 
-#### Example Search Type
+#### Example 
 
-- `$ node liri.js spotify-this-sogn [Artists-name]`
+- `$ node liri.js spotify-this-song [Artists-name]`
 - `$ node liri.js movie-this [Movie-name]`
 - `$ node liri.js concert-this [Singer-name]`
 - `$ node liri.js do-what-it-says [This comand dont need a query]`
+
+## Let's search for a song on SPOTIFY
+### We type...
+
+`$ node liri.js spotify-this-song [Artists-name]`
+
+### We get the search result
+
+![alt text][logo] : images/Screen Shot 2019-08-27 at 11.18.15 PM.png
+
 
 
 
