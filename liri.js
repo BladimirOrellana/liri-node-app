@@ -11,6 +11,7 @@ let save;
 
 var comand = process.argv[2];
 var search = process.argv.slice(3).join(" ");
+
 //SAVE HISTORY
 let history = (saveSearch) =>{
     //I used the prependFile package insted of the fs.append function
@@ -25,37 +26,37 @@ let history = (saveSearch) =>{
 //GET SPOTIFY FUNCTION
 let getSpotify = (artist) => {
     
-  spotify.search(
-      {
-          type: 'track', query: artist
-      }
-  ).then((result)=>{
-      
-      
-    
-        for(var i in result.tracks.items){
+    spotify.search(
+        {
+            type: 'track', query: artist
+        }
+    ).then((result)=>{
         
         
-
-save = `
-            Song Information
-----------------------------------------------
-Artist : ${result.tracks.items[i].artists[0].name}
-Song : ${result.tracks.items[i].name}
-Preview Link : ${result.tracks.items[i].preview_url}
-Album : ${result.tracks.items[i].album.name}
-----------------------------------------------
-    `
-     
-          }
-
-          history(save)
-          console.log(save)
-     
-  }).catch((err)=>{
-      console.log(err)
-  })
-}
+      
+          for(var i in result.tracks.items){
+          
+          
+  
+  save = `
+              Song Information
+  ----------------------------------------------
+  Artist : ${result.tracks.items[i].artists[0].name}
+  Song : ${result.tracks.items[i].name}
+  Preview Link : ${result.tracks.items[i].preview_url}
+  Album : ${result.tracks.items[i].album.name}
+  ----------------------------------------------
+      `
+       
+            }
+  
+            history(save)
+            console.log(save)
+       
+    }).catch((err)=>{
+        console.log(err)
+    })
+  }
 
 
 //GET MOVIE FUNCTION
@@ -162,21 +163,6 @@ console.log(save)
         })
 })
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 let defaultMessage = () =>{
     console.log(
@@ -202,9 +188,9 @@ switch(comand){
     case 'spotify-this-song':
             if(search === undefined){
                 search = "The Sign";
-                getSpotify(search);
+               getSpotify(search)
             }else{
-                getSpotify(search);
+                getSpotify(search)
             }
         break;
     case 'concert-this':

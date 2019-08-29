@@ -39,6 +39,15 @@ The first argument is the `Search type` and the second one is the `Query`
 
 ![alt text](images/spotify.png)
 
+# npm Package Used
+
+- `dotenv`
+- `fs`
+- `prepend-file`
+- `axios`
+- `moment`
+- `node-spotify-api`
+
 
 
 

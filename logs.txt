@@ -1,4 +1,67 @@
 
+              Song Information
+  ----------------------------------------------
+  Artist : Hoodie Allen
+  Song : Surprise Party (feat. Blackbear)
+  Preview Link : https://p.scdn.co/mp3-preview/ac0a9650612b4d7c4f0f35282851bf54e42db662?cid=a69a56c673504a2ea5fc9958f1b81cd8
+  Album : Happy Camper
+  ----------------------------------------------
+      
+
+               Venue Information
+----------------------------------------------
+Place : Pechanga Arena San Diego
+Location : San Diego, United States
+Date : September 6th 2019
+Visit site : https://www.bandsintown.com/e/1014090907?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+----------------------------------------------
+
+
+              Song Information
+  ----------------------------------------------
+  Artist : Housefires
+  Song : Open Space
+  Preview Link : https://p.scdn.co/mp3-preview/32dd61d59866959c9980a824362d56f9eb041a71?cid=a69a56c673504a2ea5fc9958f1b81cd8
+  Album : We Say Yes
+  ----------------------------------------------
+      
+
+              Song Information
+  ----------------------------------------------
+  Artist : Hoodie Allen
+  Song : Surprise Party (feat. Blackbear)
+  Preview Link : https://p.scdn.co/mp3-preview/ac0a9650612b4d7c4f0f35282851bf54e42db662?cid=a69a56c673504a2ea5fc9958f1b81cd8
+  Album : Happy Camper
+  ----------------------------------------------
+      
+
+              Song Information
+  ----------------------------------------------
+  Artist : Hoodie Allen
+  Song : Surprise Party (feat. Blackbear)
+  Preview Link : https://p.scdn.co/mp3-preview/ac0a9650612b4d7c4f0f35282851bf54e42db662?cid=a69a56c673504a2ea5fc9958f1b81cd8
+  Album : Happy Camper
+  ----------------------------------------------
+      
+
+              Song Information
+  ----------------------------------------------
+  Artist : Hoodie Allen
+  Song : Surprise Party (feat. Blackbear)
+  Preview Link : https://p.scdn.co/mp3-preview/ac0a9650612b4d7c4f0f35282851bf54e42db662?cid=a69a56c673504a2ea5fc9958f1b81cd8
+  Album : Happy Camper
+  ----------------------------------------------
+      
+
+            Song Information
+----------------------------------------------
+Artist : Maluma
+Song : No Se Me Quita (feat. Ricky Martin)
+Preview Link : https://p.scdn.co/mp3-preview/25b16e0e087e283806ec55fba994b07dd67ce019?cid=a69a56c673504a2ea5fc9958f1b81cd8
+Album : 11:11
+----------------------------------------------
+    
+
             Song Information
 ----------------------------------------------
 Artist : Hoodie Allen
@@ -1588,7 +1651,7 @@ Visit site : https://www.bandsintown.com/e/1016770876?app_id=codingbootcamp&came
 
                Venue Information
 ----------------------------------------------
-Place : Auditorio Citibanamex
+Plao Citibanamex
 Location : Monterrey, Mexico
 Date : December 5th 2019
 Visit site : https://www.bandsintown.com/e/1016770876?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
@@ -1618,7 +1681,7 @@ Visit site : https://www.bandsintown.com/e/1016771190?app_id=codingbootcamp&came
 Place : Auditorio Nacional
 Location : Ciudad De México, Mexico
 Date : December 13th 2019
-Visit site : https://www.bandsintown.com/e/1016770560?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+Visit site : https://www.bandsintown.com/e/1016770560?app_id=codingbootcamp&came_from=2p&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
 ----------------------------------------------
 
 
@@ -1666,6 +1729,8 @@ Visit site : https://www.bandsintown.com/e/1014097046?app_id=codingbootcamp&came
 -
 
 -----
+
+-
 
 -
 
